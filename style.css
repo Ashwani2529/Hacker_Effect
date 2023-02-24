@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+word-break: break-all;
+overflow: hidden;
+
+}
+
+.hey{
+    height: fit-content;
+    width: fit-content;
+    color: rgb(2, 75, 8);
+   font-size: large;
+   /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  
+}
