@@ -5,7 +5,6 @@ let iterations=0;
     event.target.innerText=event.target.innerText.split("")
 .map(letter=>l[Math.floor(Math.random()*26)])
 .join("");
-// if(iterations>=10) clearInterval(interval);
 iterations+=1
 },60);
 }
